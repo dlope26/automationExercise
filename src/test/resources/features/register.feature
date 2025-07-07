@@ -1,5 +1,4 @@
 Feature: User Registration Flow
-
   Scenario: David completes account registration and deletion
 
     Given David is on the Automation Exercise home page
